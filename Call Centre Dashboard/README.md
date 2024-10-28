@@ -37,13 +37,8 @@ The `Pivots` sheet in the dashboard enables further exploration, allowing users 
 ![dashboard](call_centre_dashboard.png)
 
 1. **Navigate to the 'Customer Centre Report'** sheet to view the main dashboard.
-2. **Explore Interactive Elements**: Use pivot tables and slicers to filter by representative, call duration, satisfaction rating, and customer demographics.
+2. **Explore Interactive Elements**: Use slicers to filter by representative, call duration, satisfaction rating, and customer demographics.
 3. **Identify Trends and Patterns**: Analyze call volumes, satisfaction ratings, and customer purchase patterns to make data-backed operational adjustments.
-
-## ⚠️ Challenges & Limitations
-
-- **Data Gaps**: Satisfaction and purchase behavior are recorded only for available data, which may miss some customer sentiments or revenue.
-- **Manual Data Validation**: Certain demographic details might require manual entry or verification, depending on data collection practices.
 
 ## 👥 Audience
 
